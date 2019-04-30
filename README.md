@@ -6,7 +6,7 @@ A python script to automatically transform 'pdf+pdf_t' files exported from Xfig 
 
 Make sure the `pdflatex` and `pdfcrop` commands can be excuted. If not, install them.
 
-Suppose the exported files from Xfig is frame.pdf and frame.pdf_t  
+Suppose the exported files from Xfig are frame.pdf and frame.pdf_t  
 
 Move them to the same folder as templatex.tex and gen.py
 
