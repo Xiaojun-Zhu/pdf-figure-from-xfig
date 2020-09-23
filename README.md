@@ -17,3 +17,8 @@ Excute
 You will see a file named `genframe.pdf`(not cropped) and a file named `framecrop.pdf`
 
 Feel free to change the file names in the python script. 
+
+# comments 
+I did not use this one for a long time, because I changed laptops several times and it was too tedious to configure the toolchain.
+
+I now use powerpoint to draw figures, generate a pdf file, and crop the pdf file. 
